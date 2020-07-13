@@ -1,19 +1,21 @@
 
-# Introduction: TokoVOIP
+# Introduction: TokoVOIP (forked version)
 TokoVOIP is a TeamSpeak plugin used along a FiveM script to add a custom proximity chat and radio system to [FiveM](https://fivem.net/)  
 
 It includes radio effects thanks to the integration of the [RadioFX](https://www.myteamspeak.com/addons/f2e04859-d0db-489b-a781-19c2fab29def) plugin  
 
-Downloads are available on the [releases](https://github.com/Itokoyamato/TokoVOIP_TS3/releases) page  
+Downloads are available on the [releases](https://github.com/bg364/TokoVOIP_TS3/releases) page  
 
 If you like TokoVOIP, give it a star ! It'd be much appreciated <3  
 
-We have a [Discord](https://discord.gg/nbEprAw) server to discuss, or if you need help !  
-[![Discord](https://img.shields.io/discord/728723568824680560?color=blue&label=Discord)](https://discord.gg/nbEprAw)
+Original author is [releases](https://github.com/Itokoyamato/TokoVOIP_TS3)
 
-You can support my work:  
-[![Patreon](https://img.shields.io/badge/Become%20a-patron-orange)](https://www.patreon.com/Itokoyamato)
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=H2UXEZBF5KQBL&source=url)  
+# How this version is diffirent
+Itokoyamoto's version is using his "master server" to handshake between Teamspeak client and FiveM Server.
+Mine version is omitting this - instead, it is looking for [TokoVOIP=1.1.1.1:1234] tag in Teamspeak channel description.
+
+Below you'll find further instructions, but beware! It is not yet current, as this is very early version of fork.
+Actual info will be available around 15th June 2020.
 
 # Table of Contents
 - [Introduction: TokoVOIP](#introduction-tokovoip)
