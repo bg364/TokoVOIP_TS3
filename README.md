@@ -8,7 +8,7 @@ Downloads are available on the [releases](https://github.com/bg364/TokoVOIP_TS3/
 
 If you like TokoVOIP, give it a star ! It'd be much appreciated <3  
 
-Original author is [releases](https://github.com/Itokoyamato/TokoVOIP_TS3)
+Original author is [Itokoyamato](https://github.com/Itokoyamato/TokoVOIP_TS3)
 
 # How this version is diffirent
 Itokoyamoto's version is using his "master server" to handshake between Teamspeak client and FiveM Server.
